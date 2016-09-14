@@ -1,0 +1,5 @@
+﻿  shader.cpp
+p:\opengl\project\openglrender\openglrender\shader.h(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  main.cpp
+p:\opengl\project\openglrender\openglrender\main.cpp(2): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
